@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Adding two values
+((sum=12+16))
+
+#Print the result
+echo $sum
